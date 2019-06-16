@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ximus_4746.wsgi:application
